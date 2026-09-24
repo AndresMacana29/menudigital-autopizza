@@ -1,0 +1,248 @@
+PROMPTS PARA GENERAR FOTOS DE PRODUCTO - AUTOPIZZA
+Herramienta recomendada: Leonardo.ai, modelo Phoenix 2.0 + modo PhotoReal
+Formato de imagen: 4:3 (horizontal)
+================================================================
+
+NEGATIVE PROMPT (usar en todas las generaciones, campo aparte en Leonardo.ai):
+cartoon, illustration, low quality, blurry, text, watermark, plastic looking, deformed, cluttered background
+
+================================================================
+PIZZAS CLÁSICAS
+Estilo: toma cenital (desde arriba), pizza entera sobre tabla de madera rústica,
+ingredientes frescos sueltos alrededor a juego con los toppings, luz natural cálida,
+borde de la masa dorado y con textura, ligero vapor, estilo editorial.
+================================================================
+
+1. Napolitana
+Wood-fired pizza with mozzarella cheese base and sliced tomatoes, garnished with fine herbs, overhead top-down shot, rustic wooden board, scattered cherry tomatoes and fresh herbs around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k, dimension 4:3 (horizontal)
+
+2. Jamón y Queso
+Wood-fired pizza with mozzarella cheese base topped with smoked ham slices, overhead top-down shot, rustic wooden board, scattered fresh herbs around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+3. Hawaiana
+Wood-fired pizza with caramelized pineapple chunks and smoked ham, overhead top-down shot, rustic wooden board, scattered pineapple pieces around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+4. Tocinetas
+Wood-fired pizza with caramelized pineapple base and crispy smoked bacon strips, overhead top-down shot, rustic wooden board, scattered bacon bits around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+5. Pollo con Piña
+Wood-fired pizza with caramelized pineapple and shredded chicken, overhead top-down shot, rustic wooden board, scattered pineapple chunks around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+6. Pollo y Champiñones
+Wood-fired pizza with shredded chicken and baked mushroom slices, overhead top-down shot, rustic wooden board, scattered fresh mushrooms around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+7. Pollo con Verduras
+Wood-fired pizza with shredded chicken, julienned onion and bell pepper, overhead top-down shot, rustic wooden board, scattered fresh bell pepper strips around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+8. Pollo con Maíz
+Wood-fired pizza with shredded chicken and sweet corn kernels, overhead top-down shot, rustic wooden board, scattered corn kernels around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+9. Carnes
+Wood-fired pizza with bolognese-style ground beef, salami, ham and smoked bacon, overhead top-down shot, rustic wooden board, scattered meat slices around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+10. Mexicana
+Wood-fired pizza with bolognese-style ground beef, onion, bell pepper, corn, salami and parsley, overhead top-down shot, rustic wooden board, scattered corn and bell pepper around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+11. Mi Tierra
+Wood-fired pizza with bolognese-style ground beef, onion, bell pepper, corn and criollo sausage, overhead top-down shot, rustic wooden board, scattered sausage slices around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+12. Pepperoni
+Wood-fired pizza with mozzarella cheese base topped with pepperoni slices, overhead top-down shot, rustic wooden board, scattered pepperoni slices around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+13. Canadiense
+Wood-fired pizza with pepperoni, smoked bacon and mushrooms, overhead top-down shot, rustic wooden board, scattered mushroom slices around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+14. Australiana
+Wood-fired pizza with pepperoni, onion, bell pepper and honey-glazed pineapple, overhead top-down shot, rustic wooden board, scattered pineapple pieces around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+15. Jalapeña
+Wood-fired pizza with bolognese-style ground beef, pepperoni and pickled jalapeños, overhead top-down shot, rustic wooden board, scattered jalapeño slices around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+================================================================
+PIZZAS DE LA CASA
+Mismo estilo cenital que las clásicas, pero con un toque un poco más "gourmet"
+(ingredientes más premium, composición un poco más elaborada).
+================================================================
+
+16. Antojo
+Wood-fired gourmet pizza with bolognese-style beef, criollo chorizo, smoked bacon, ripe plantain, corn and parmesan cheese, overhead top-down shot, rustic wooden board, scattered plantain slices and corn around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+17. Especial
+Wood-fired gourmet pizza with bolognese-style beef, shredded chicken, smoked bacon, onion, bell pepper and sliced tomato with herbs, overhead top-down shot, rustic wooden board, scattered fresh herbs around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+18. Frutos del Mar
+Wood-fired gourmet pizza topped with grilled shrimp, hearts of palm, black olives, onion, bell pepper and parmesan cheese, overhead top-down shot, rustic wooden board, scattered grilled shrimp around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+19. SuperEspecial
+Wood-fired loaded pizza with bolognese-style beef, shredded chicken, onion, bell pepper, mushroom, corn, black olives, pepperoni and sliced tomato with herbs, overhead top-down shot, rustic wooden board, scattered toppings around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+20. Detroit
+Wood-fired pizza with shredded chicken, smoked bacon, mushroom, black olives and parmesan cheese, overhead top-down shot, rustic wooden board, scattered black olives around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+21. SuperCarnes
+Wood-fired meat-loaded pizza with bolognese-style beef, shredded chicken, salami, smoked ham, criollo sausage, smoked bacon and pepperoni, overhead top-down shot, rustic wooden board, scattered meat slices around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+22. Barcelona
+Wood-fired pizza with bolognese-style beef, onion, smoked bacon, green olives, parmesan cheese and parsley, overhead top-down shot, rustic wooden board, scattered green olives around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+23. Antaño
+Wood-fired pizza with smoked bacon, prunes, sliced ripe plantain, sweet corn and parmesan cheese, overhead top-down shot, rustic wooden board, scattered plantain slices around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+24. Vegetariana
+Wood-fired vegetarian pizza with mozzarella cheese base, onion, bell pepper, sliced black olives, sweet corn and sliced tomato, overhead top-down shot, rustic wooden board, scattered fresh vegetables around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+25. Verona
+Wood-fired pizza with mozzarella cheese base, shredded chicken, sliced sausage and onion, overhead top-down shot, rustic wooden board, scattered sausage slices around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+26. Mediterránea
+Wood-fired pizza with smoked bacon, green olives, sliced onion, bell pepper, sliced tomato and parmesan cheese, overhead top-down shot, rustic wooden board, scattered green olives and tomato slices around, dark rustic wooden table background, warm natural lighting, golden crust detail, shallow depth of field, editorial food photography, high detail, 4k
+
+================================================================
+HAMBURGUESAS AL CARBÓN
+Estilo: toma cercana en ángulo, tabla de madera oscura, luz cálida dramática lateral,
+fondo desenfocado, queso derretido y salsa chorreando, papas a la francesa al lado.
+(La Hamburguesa Gaucha ya está generada y confirmada con este mismo estilo)
+================================================================
+
+27. Hamburguesa Tradicional
+Grilled beef burger on a brioche bun with smoked bacon, smoked ham, melted mozzarella cheese, lettuce, tomato and onion, served with a side of french fries, professional food photography, dark rustic wooden table background, dramatic warm side lighting, shallow depth of field, blurred moody background, glossy sauce and appetizing texture detail, close-up shot, high detail, editorial style, 4k
+
+28. Hamburguesa Mixta
+Grilled beef and shredded chicken burger on a brioche bun with smoked bacon, smoked ham, melted mozzarella cheese, lettuce, tomato and onion, served with a side of french fries, professional food photography, dark rustic wooden table background, dramatic warm side lighting, shallow depth of field, blurred moody background, glossy sauce and appetizing texture detail, close-up shot, high detail, editorial style, 4k
+
+29. Hamburguesa Gaucha (YA GENERADA)
+Gourmet grilled beef burger on a brioche bun, loaded with grilled beef patty, chorizo, smoked bacon, smoked ham, melted mozzarella cheese, lettuce, tomato, onion, drizzled with chimichurri sauce, served with a side of french fries, professional food photography, dark rustic wooden table background, dramatic warm side lighting, shallow depth of field, blurred moody background, glossy sauce and appetizing texture detail, close-up shot, high detail, editorial style, 4k
+
+30. Hamburguesa Doble Carne
+Double grilled beef patty burger on a brioche bun with double smoked bacon, double smoked ham, double melted mozzarella cheese, lettuce, tomato and onion, served with a side of french fries, professional food photography, dark rustic wooden table background, dramatic warm side lighting, shallow depth of field, blurred moody background, glossy sauce and appetizing texture detail, close-up shot, high detail, editorial style, 4k
+
+================================================================
+MAZORCADAS DE LA CASA
+Estilo: toma cercana, mazorca gratinada con queso derretido, tabla de madera o plato
+de barro, luz cálida, fondo desenfocado.
+================================================================
+
+31. Mazorcada Tradicional con Pollo
+Grilled corn on the cob topped with melted mozzarella cheese, smoked bacon bits and shredded chicken, oven-gratinated, served on a rustic clay plate, professional food photography, dark rustic wooden table background, dramatic warm lighting, shallow depth of field, blurred moody background, melted cheese detail, close-up shot, high detail, editorial style, 4k
+
+32. Mazorcada Tradicional con Carne
+Grilled corn on the cob topped with melted mozzarella cheese, smoked bacon bits and shredded beef, oven-gratinated, served on a rustic clay plate, professional food photography, dark rustic wooden table background, dramatic warm lighting, shallow depth of field, blurred moody background, melted cheese detail, close-up shot, high detail, editorial style, 4k
+
+33. Mazorcada Mixta
+Grilled corn on the cob topped with melted mozzarella cheese, smoked bacon bits, shredded chicken and bolognese-style beef, oven-gratinated, served on a rustic clay plate, professional food photography, dark rustic wooden table background, dramatic warm lighting, shallow depth of field, blurred moody background, melted cheese detail, close-up shot, high detail, editorial style, 4k
+
+================================================================
+CHORIPAPAS TRADICIONALES
+================================================================
+
+34. Choripapa Sencilla
+French fries topped with grilled criollo sausage slices, melted cheese and house sauces, served in a rustic bowl, professional food photography, dark rustic wooden table background, dramatic warm lighting, shallow depth of field, blurred moody background, glossy sauce detail, close-up shot, high detail, editorial style, 4k
+
+35. Choripapa Especial (2 personas)
+Large sharing portion of french fries topped with grilled criollo sausage, smoked bacon, corn, shredded chicken, ripe plantain, melted mozzarella and queso costeño, served in a rustic bowl, professional food photography, dark rustic wooden table background, dramatic warm lighting, shallow depth of field, blurred moody background, glossy sauce detail, close-up shot, high detail, editorial style, 4k
+
+================================================================
+PAPAS A LA FRANCESA
+================================================================
+
+36. Papas Sencillas
+French fries topped with crumbled queso costeño and house sauces, served in a rustic bowl, professional food photography, dark rustic wooden table background, dramatic warm lighting, shallow depth of field, blurred moody background, close-up shot, high detail, editorial style, 4k
+
+37. Papas Dobles
+Large double portion of french fries topped with crumbled queso costeño and house sauces, served in a rustic bowl, professional food photography, dark rustic wooden table background, dramatic warm lighting, shallow depth of field, blurred moody background, close-up shot, high detail, editorial style, 4k
+
+================================================================
+BEBIDAS
+Estilo: distinto al de la comida — más fresco y luminoso. Vaso o botella con gotas
+de condensación, fondo claro y desenfocado, luz natural brillante, colores vivos.
+NOTA sobre marcas (Coca-Cola, Club Colombia, etc.): los generadores de IA no
+reproducen logos reales de forma confiable (a veces salen distorsionados). Estos
+prompts describen la bebida de forma genérica; si necesitas el logo exacto, es
+mejor usar una foto de stock o tomar la foto real de la botella/lata.
+================================================================
+
+38. Jugo de Mora en Agua
+Tall glass of blackberry juice with water base, condensation droplets on the glass, fresh blackberries beside it, bright natural lighting, light blurred background, vibrant purple color, close-up shot, high detail, editorial beverage photography, 4k
+
+39. Jugo de Maracuyá en Agua
+Tall glass of passion fruit juice with water base, condensation droplets on the glass, fresh passion fruit halves beside it, bright natural lighting, light blurred background, vibrant orange-yellow color, close-up shot, high detail, editorial beverage photography, 4k
+
+40. Jugo de Mango en Agua
+Tall glass of mango juice with water base, condensation droplets on the glass, fresh mango slices beside it, bright natural lighting, light blurred background, vibrant orange color, close-up shot, high detail, editorial beverage photography, 4k
+
+41. Jugo de Mora en Leche
+Tall glass of creamy blackberry milkshake-style juice, condensation droplets on the glass, fresh blackberries beside it, bright natural lighting, light blurred background, soft purple color, close-up shot, high detail, editorial beverage photography, 4k
+
+42. Jugo de Maracuyá en Leche
+Tall glass of creamy passion fruit milkshake-style juice, condensation droplets on the glass, fresh passion fruit halves beside it, bright natural lighting, light blurred background, soft yellow color, close-up shot, high detail, editorial beverage photography, 4k
+
+43. Jugo de Mango en Leche
+Tall glass of creamy mango milkshake-style juice, condensation droplets on the glass, fresh mango slices beside it, bright natural lighting, light blurred background, soft orange color, close-up shot, high detail, editorial beverage photography, 4k
+
+44. Limonada Natural
+Tall glass of classic natural lemonade with ice and mint leaves, condensation droplets on the glass, fresh lime slices beside it, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k
+
+45. Limonada de Mango
+Tall glass of mango lemonade with ice and mint leaves, condensation droplets on the glass, fresh mango slices beside it, bright natural lighting, light blurred background, vibrant orange color, close-up shot, high detail, editorial beverage photography, 4k
+
+46. Limonada de Maracuyá
+Tall glass of passion fruit lemonade with ice and mint leaves, condensation droplets on the glass, fresh passion fruit halves beside it, bright natural lighting, light blurred background, vibrant yellow color, close-up shot, high detail, editorial beverage photography, 4k
+
+47. Limonada de Frutos Rojos
+Tall glass of mixed berry lemonade with ice and mint leaves, condensation droplets on the glass, fresh strawberries and berries beside it, bright natural lighting, light blurred background, vibrant red-pink color, close-up shot, high detail, editorial beverage photography, 4k
+
+48. Limonada Cerezada
+Tall glass of cherry lemonade with ice and mint leaves, condensation droplets on the glass, fresh cherries beside it, bright natural lighting, light blurred background, vibrant red color, close-up shot, high detail, editorial beverage photography, 4k
+
+49. Limonada de Coco
+Tall glass of creamy coconut lemonade with ice, condensation droplets on the glass, shredded coconut and a coconut half beside it, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k
+
+50. Postobón o Coca-Cola 500ml
+Cold soda glass bottle with visible condensation droplets, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k (generic bottle, no exact logo)
+
+51. Postobón o Coca-Cola 1.5L
+Cold large soda plastic bottle with visible condensation droplets, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k (generic bottle, no exact logo)
+
+52. Coca-Cola 2.5L
+Cold extra-large soda plastic bottle with visible condensation droplets, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k (generic bottle, no exact logo)
+
+53. Coca-Cola Lata 235ml
+Cold soda can with visible condensation droplets, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k (generic can, no exact logo)
+
+54. Club Colombia
+Cold beer bottle with visible condensation droplets, poured beer glass beside it with foam head, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k (generic bottle, no exact logo)
+
+55. Coronita
+Cold small beer bottle with a lime wedge, visible condensation droplets, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k (generic bottle, no exact logo)
+
+56. Agua Natural
+Cold bottled still water with visible condensation droplets, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k
+
+57. Soda
+Cold sparkling water glass bottle with visible condensation droplets, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k
+
+58. Soda con Limón
+Cold sparkling water glass bottle garnished with a lime wedge, visible condensation droplets, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k
+
+59. Jugos Hit
+Cold fruit juice box/bottle with visible condensation droplets, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k (generic packaging, no exact logo)
+
+60. Tea Hatzu
+Cold iced tea bottle with visible condensation droplets, fresh lemon slice beside it, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k (generic bottle, no exact logo)
+
+61. Fuze Tea
+Cold iced tea bottle with visible condensation droplets, fresh lemon slice beside it, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k (generic bottle, no exact logo)
+
+62. Soda Hatzu
+Cold sparkling flavored soda bottle with visible condensation droplets, bright natural lighting, light blurred background, close-up shot, high detail, editorial beverage photography, 4k (generic bottle, no exact logo)
+
+================================================================
+RECORDATORIO DE FLUJO DE TRABAJO
+================================================================
+1. Genera la imagen en Leonardo.ai (Phoenix 2.0 + PhotoReal, formato 4:3).
+2. Guarda el archivo en la carpeta img/productos/ con un nombre corto y
+   consistente (ej: napolitana.jpg, pepperoni.jpg, hamburguesa-tradicional.jpg).
+3. En config.js, agrega el campo "imagen" al producto correspondiente
+   (ej: imagen: "img/productos/napolitana.jpg").
+4. La app ya está lista para mostrar la foto automáticamente en la tarjeta
+   y en el modal de ampliar — no hace falta tocar más código.
