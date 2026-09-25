@@ -377,9 +377,9 @@ main {
   justify-content: center; font-size: 64px;
   }
   .pizza-size-img-wrap { display: flex; align-items: flex-end; justify-content: center; height: 115px; }
-  .size-personal { width: 80px; height: 80px; font-size: 35px; }
-  .size-mediana  { width: 95px; height: 95px; font-size: 45px; }
-  .size-grande   { width: 115px; height: 115px; font-size: 52px;}
+.size-personal { width: min(80px, 24vw); height: min(80px, 24vw); font-size: 35px; }
+.size-mediana  { width: min(95px, 28vw); height: min(95px, 28vw); font-size: 45px; }
+.size-grande   { width: min(115px, 32vw); height: min(115px, 32vw); font-size: 52px; }
 }
 @media (min-width: 901px) {
   .cart-fab {
@@ -424,6 +424,7 @@ main {
   padding: 6px;
   border-radius: 10px;
   transition: background 0.15s;
+  min-width: 0;
 }
 .pizza-size-option.selected { background: var(--gold-light); }
 .pizza-size-img-wrap { display: flex; align-items: flex-end; justify-content: center; height: 130px; }
@@ -438,7 +439,7 @@ main {
   justify-content: center;
   transition: transform 0.2s;
 }
-.pizza-size-label { font-size: 12px; margin-top: 6px; color: var(--text2);white-space: no; }
+.pizza-size-label { font-size: 12px; margin-top: 6px; color: var(--text2);white-space: nowrap; }
 .pizza-size-option.selected .pizza-size-label { color: var(--brand); font-weight: 600; }
 .pizza-size-price { font-size: 13px; font-weight: 700; color: var(--brand-dark); margin-top: 2px; }
 
