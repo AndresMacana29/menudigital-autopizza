@@ -1,17 +1,20 @@
 /* ======== CONFIG DEL CLIENTE — CAMBIAR AQUÍ ======== */
 :root {
-  --brand:       #D32F2F;       /* Rojo — tomado del logo de Autopizza (los "pepperonis") */
-  --brand-dark:  #A62424;
-  --brand-light: rgba(211,47,47,0.1);
-  --gold:        #A77145;       /* Camel/dorado — extraído del PDF real del menú */
-  --gold-light:  #F3E6D3;
+  --brand:       #C1272D;       /* Rojo vintage, un poco más profundo que el actual */
+  --brand-dark:  #8F1A1F;
+  --brand-light: rgba(193,39,45,0.1);
+  --gold:        #B8860B;       /* Dorado mostaza vintage */
+  --gold-light:  #F0E1BB;
   --wa-green:    #25D366;
-  --bg:          #F8F7F4;
-  --surface:     #FFFFFF;
-  --border:      #EBEBEB;
-  --text:        #1A1A1A;
-  --text2:       #6B6B6B;
-  --text3:       #ADADAD;
+  --dark:        #241812;       /* Café espresso casi negro — NUEVO, para header/footer */
+  --dark-2:      #33221A;       /* Variante un poco más clara del oscuro, para degradados */
+  --bg:          #fae2b9;       /* Beige cálido de fondo general (antes gris claro) */
+  --surface:     #FBF5EA;       /* Crema para tarjetas (antes blanco puro) */
+  --border:      #E2D2B4;       /* Borde beige oscuro */
+  --text:        #2B1B12;       /* Texto principal, café oscuro en vez de negro puro */
+  --text2:       #6E5B48;       /* Texto secundario, café medio */
+  --text3:       #A6937A;       /* Texto terciario, beige oscuro */
+  --cream:       #F3E9D8;       /* Para texto/detalles claros sobre fondos oscuros */
 }
 /* ==================================================== */
 

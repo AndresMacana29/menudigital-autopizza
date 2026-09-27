@@ -117,7 +117,7 @@ const CONFIG = {
     // ── HAMBURGUESAS AL CARBÓN (⚠️ orden de precios por confirmar) ──
     { id:27, cat:"hamburguesas", emoji:"🍔", nombre:"Hamburguesa Tradicional", desc:"140gr de carne de res asada al carbón, tocineta y jamón ahumados, queso mozzarella, lechuga, tomate, cebolla, pan brioche, con papa a la francesa y salsas de la casa.", precio:23000 },
     { id:28, cat:"hamburguesas", emoji:"🍔", nombre:"Hamburguesa Mixta", desc:"140gr de carne de res asada al carbón, pollo desmechado, tocineta y jamón ahumados, queso mozzarella, lechuga, tomate, cebolla, pan brioche, con papa a la francesa y salsas de la casa.", precio:27000 },
-    { id:29, cat:"hamburguesas", emoji:"🍔", imagen:"/img/productos/hamburgesa-gaucha.jpg", nombre:"Hamburguesa Gaucha", desc:"140gr de carne de res asada al carbón, chorizo, tocineta y jamón ahumados, queso mozzarella, lechuga, tomate, cebolla, pan brioche, con papa a la francesa, salsas de la casa y chimichurri.", precio:27000 },
+    { id:29, cat:"hamburguesas", emoji:"🍔", imagen:"/img/productos/hamburguesas/hamburgesa-gaucha.jpg", nombre:"Hamburguesa Gaucha", desc:"140gr de carne de res asada al carbón, chorizo, tocineta y jamón ahumados, queso mozzarella, lechuga, tomate, cebolla, pan brioche, con papa a la francesa, salsas de la casa y chimichurri.", precio:27000 },
     { id:30, cat:"hamburguesas", emoji:"🍔", nombre:"Hamburguesa Doble Carne", desc:"2 carnes de res de 140gr asadas al carbón, doble tocineta y jamón ahumados, doble queso mozzarella, lechuga, tomate, cebolla, pan brioche, con papa a la francesa y salsas de la casa.", precio:29000 },
 
     // ── MAZORCADAS DE LA CASA ────────────────────────────────
