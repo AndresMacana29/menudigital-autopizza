@@ -8,6 +8,13 @@ const cart = {};
 let activeCategory = 'pizzas-clasicas';
 let pizzaSeleccionada = null;
 let tamanoSeleccionado = null;
+const iconosCategoria = {
+  'pizzas-clasicas': 'img/pizza-icon.png',
+  'pizzas-casa': 'img/pizza-icon.png',
+  'hamburguesas': 'img/hamburg-icon.png',
+  'para-compartir': 'img/papas-fritas-icon.png',
+  'bebidas': 'img/bebidas-icon.png',
+};
 
 // ── FORMATO DE PRECIO ────────────────────────────────────────
 const fmt = n => '$' + n.toLocaleString('es-CO');
@@ -72,7 +79,7 @@ function renderCategories() {
     const tabNombre = cat.tabNombre || cat.nombre;
     const btn = document.createElement('button');
     btn.className = 'cat-btn' + (tabId === activeCategory ? ' active' : '');
-    btn.textContent = tabNombre;
+    btn.innerHTML = `<img src="${iconosCategoria[tabId]}" alt="">${tabNombre}`;
     btn.onclick = () => { activeCategory = tabId; setActiveTab(btn); renderMenu(tabId); };
     nav.appendChild(btn);
   });
@@ -100,7 +107,8 @@ function renderMenu(catId) {
       pizzaList.innerHTML = '';
       pizzas.forEach(p =>{const item = document.createElement('div');
         item.className = 'pizza-list-item';
-        item.innerHTML = `<div class="pizza-list-name">${p.nombre}</div><div class="pizza-list-desc">${p.desc}</div>`;
+        const contenidoImagen = p.imagen ? `<img src="${p.imagen}" alt="${p.nombre}">` : p.emoji;
+        item.innerHTML = `<div class="pizza-list-img">${contenidoImagen}</div><div class="pizza-list-text"><div class="pizza-list-name">${p.nombre}</div><div class="pizza-list-desc">${p.desc}</div></div>`;
         item.dataset.id = p.id;
         item.onclick = () => {
           const pizzaClickeada = CONFIG.productos.find(p => p.id == item.dataset.id);

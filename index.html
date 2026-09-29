@@ -9,29 +9,29 @@
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@800&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Oswald:wght@200..700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Kaushan+Script&family=Oswald:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">>
+<link href="https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" href="./img/Logo-autopizza-icono.png">
-
-
-
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
-<!--WELCOME-->  
+<!--WELCOME -->  
 <div class="splash-screen" id="splashScreen">
   <img src="./img/Logo_autopizza.png" alt="Autopizza" class="splash-logo">
   <div class="splash-text">¡Bienvenido a Autopizza!</div>
 </div>
-
 <!-- HEADER -->
 <header class="header">
-  <div class="header-top">
-    <div class="logo-circle" id="logoCircle"><img src="./img/Logo-autopizza-icono.png" alt="Autopizza" class="logo-img"></div>
-    <div>
-      <div class="resto-name" id="restoName"></div>
-      <div class="resto-tagline" id="restoTagline"></div>
-    </div>
+ <div class="header-top">
+  <div class="header-left">
+    <button class="menu-btn" id="menuBtn" aria-label="Abrir menú">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </button>
+    <div class="logo-circle" id="logoCircle"><img src="img/Logo-autopizza-icono.png" alt="Autopizza" class="logo-img"></div>
+  </div>
+  <div class="header-center">
+    <div class="resto-name" id="restoName"></div>
+    <div class="resto-tagline" id="restoTagline"></div>
+  </div>
     <div class="status-dot" id="statusDot"><span class="dot"></span><span id="statusText"></span></div>
   </div>
 </header>
@@ -50,9 +50,9 @@
   </div>
 </section>
     <div class="cat-nav-wrap">
-      <button class="cat-nav-arrow cat-nav-arrow-left" onclick="scrollCats(-1)" aria-label="Categorías anteriores">‹</button>
+      <button class="cat-nav-arrow cat-nav-arrow-left" onclick="scrollCats(-1)" aria-label="Categorías anteriores"></button>
       <div class="cat-nav" id="catNav"></div>
-      <button class="cat-nav-arrow cat-nav-arrow-right" onclick="scrollCats(1)" aria-label="Más categorías">›</button>
+      <button class="cat-nav-arrow cat-nav-arrow-right" onclick="scrollCats(1)" aria-label="Más categorías"></button>
     </div>
     <!-- PROMO BANNER 
     <div class="promo">
@@ -68,8 +68,6 @@
     <section class="pizza-selector" id="pizzaSelector" style="display:none">
       <div class="pizza-featured" id="pizzaFeatured">
         <div class="pizza-featured-name" id="pizzaFeaturedName">Napolitana</div>
-        
-
         <div class="pizza-sizes">
           <div class="pizza-size-option" data-size="personal">
             <div class="pizza-size-img-wrap"><div class="pizza-size-img size-personal" id="pizzaImgPersonal">🍕</div></div>

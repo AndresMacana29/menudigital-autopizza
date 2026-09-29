@@ -22,7 +22,7 @@
 const CONFIG = {
   // ── DATOS DEL NEGOCIO ──────────────────────────────────────
   nombre:    "Autopizza",
-  tagline:   "Pizza artesanal al horno de leña · Puente Nacional" ,
+  tagline:   "Puente Nacional - Santander" ,
   emoji:     "🍕",
   whatsapp:  "573506194325",   // TODO: confirmar cuál de los 3 números es el de pedidos
   horarioSemana: {
