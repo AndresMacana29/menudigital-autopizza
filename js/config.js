@@ -99,44 +99,44 @@ const CONFIG = {
       tamanos:[{nombre:"Personal 22cm",precio:25000},{nombre:"Mediana 30cm",precio:41000},{nombre:"Grande 40cm",precio:62000}] },
     { id:19, cat:"pizzas-casa", emoji:"🍕", nombre:"SuperEspecial", imagen: "/img/productos/p-de-la-casa/pizza-de-la-casa-superespecial.png",desc:"Carne bolognesa, pollo desmechado, cebolla, pimentón, champiñón, maíz, aceituna negra, pepperoni y tomate en rodajas con finas hierbas.", precio:41000,
       tamanos:[{nombre:"Personal 22cm",precio:25000},{nombre:"Mediana 30cm",precio:41000},{nombre:"Grande 40cm",precio:62000}] },
-    { id:20, cat:"pizzas-casa", emoji:"🍕", nombre:"Detroit", desc:"Pollo desmechado, tocineta ahumada, champiñón, aceituna negra y queso parmesano.", precio:36000,
+    { id:20, cat:"pizzas-casa", emoji:"🍕", nombre:"Detroit", imagen: "/img/productos/p-de-la-casa/pizza-de-la-casa-detroit.png", desc:"Pollo desmechado, tocineta ahumada, champiñón, aceituna negra y queso parmesano.", precio:36000,
       tamanos:[{nombre:"Personal 22cm",precio:21000},{nombre:"Mediana 30cm",precio:36000},{nombre:"Grande 40cm",precio:56000}] },
-    { id:21, cat:"pizzas-casa", emoji:"🍕", nombre:"SuperCarnes", desc:"Carne bolognesa, pollo desmechado, cábano, jamón ahumado, chorizo, tocineta ahumada y pepperoni.", precio:38000,
+    { id:21, cat:"pizzas-casa", emoji:"🍕", nombre:"SuperCarnes", imagen: "/img/productos/p-de-la-casa/pizza-de-la-casa-supercarnes.png", desc:"Carne bolognesa, pollo desmechado, cábano, jamón ahumado, chorizo, tocineta ahumada y pepperoni.", precio:38000,
       tamanos:[{nombre:"Personal 22cm",precio:22000},{nombre:"Mediana 30cm",precio:38000},{nombre:"Grande 40cm",precio:58000}] },
-    { id:22, cat:"pizzas-casa", emoji:"🍕", nombre:"Barcelona", desc:"Carne bolognesa, cebolla, tocineta ahumada, aceituna verde, queso parmesano y perejil.", precio:38000,
+    { id:22, cat:"pizzas-casa", emoji:"🍕", nombre:"Barcelona", imagen: "/img/productos/p-de-la-casa/pizza-de-la-casa-barcelona.png", desc:"Carne bolognesa, cebolla, tocineta ahumada, aceituna verde, queso parmesano y perejil.", precio:38000,
       tamanos:[{nombre:"Personal 22cm",precio:22000},{nombre:"Mediana 30cm",precio:38000},{nombre:"Grande 40cm",precio:58000}] },
-    { id:23, cat:"pizzas-casa", emoji:"🍕", nombre:"Antaño", desc:"Tocineta ahumada, ciruela pasa, maduro en rodajas, maíz tierno y queso parmesano.", precio:38000,
+    { id:23, cat:"pizzas-casa", emoji:"🍕", nombre:"Antaño", imagen: "/img/productos/p-de-la-casa/pizza-de-la-casa-antaño.png", desc:"Tocineta ahumada, ciruela pasa, maduro en rodajas, maíz tierno y queso parmesano.", precio:38000,
       tamanos:[{nombre:"Personal 22cm",precio:22000},{nombre:"Mediana 30cm",precio:38000},{nombre:"Grande 40cm",precio:58000}] },
-    { id:24, cat:"pizzas-casa", emoji:"🥦", nombre:"Vegetariana", desc:"Base queso tipo mozzarella, cebolla, pimentón, aceitunas negras en rodajas, maíz tierno y rodajas de tomate.", precio:36000,
+    { id:24, cat:"pizzas-casa", emoji:"🥦", nombre:"Vegetariana", imagen: "/img/productos/p-de-la-casa/pizza-de-la-casa-vegetariana.png", desc:"Base queso tipo mozzarella, cebolla, pimentón, aceitunas negras en rodajas, maíz tierno y rodajas de tomate.", precio:36000,
       tamanos:[{nombre:"Personal 22cm",precio:21000},{nombre:"Mediana 30cm",precio:36000},{nombre:"Grande 40cm",precio:57000}] },
-    { id:25, cat:"pizzas-casa", emoji:"🍕", nombre:"Verona", desc:"Base de queso tipo mozzarella, pollo desmechado, chorizo en rodajas y cebolla.", precio:37000,
+    { id:25, cat:"pizzas-casa", emoji:"🍕", nombre:"Verona", imagen: "/img/productos/p-de-la-casa/pizza-de-la-casa-verona.png", desc:"Base de queso tipo mozzarella, pollo desmechado, chorizo en rodajas y cebolla.", precio:37000,
       tamanos:[{nombre:"Personal 22cm",precio:21000},{nombre:"Mediana 30cm",precio:37000},{nombre:"Grande 40cm",precio:58000}] },
-    { id:26, cat:"pizzas-casa", emoji:"🍕", nombre:"Mediterránea", desc:"Tocineta ahumada, aceituna verde, cebolla en plumas, pimentón, tomate en rodajas y parmesano.", precio:38000,
+    { id:26, cat:"pizzas-casa", emoji:"🍕", nombre:"Mediterránea", imagen: "/img/productos/p-de-la-casa/pizza-de-la-casa-mediterranea.png", desc:"Tocineta ahumada, aceituna verde, cebolla en plumas, pimentón, tomate en rodajas y parmesano.", precio:38000,
       tamanos:[{nombre:"Personal 22cm",precio:22000},{nombre:"Mediana 30cm",precio:38000},{nombre:"Grande 40cm",precio:59000}] },
 
     // ── HAMBURGUESAS AL CARBÓN (⚠️ orden de precios por confirmar) ──
-    { id:27, cat:"hamburguesas", emoji:"🍔", nombre:"Hamburguesa Tradicional", desc:"140gr de carne de res asada al carbón, tocineta y jamón ahumados, queso mozzarella, lechuga, tomate, cebolla, pan brioche, con papa a la francesa y salsas de la casa.", precio:23000 },
-    { id:28, cat:"hamburguesas", emoji:"🍔", nombre:"Hamburguesa Mixta", desc:"140gr de carne de res asada al carbón, pollo desmechado, tocineta y jamón ahumados, queso mozzarella, lechuga, tomate, cebolla, pan brioche, con papa a la francesa y salsas de la casa.", precio:27000 },
+    { id:27, cat:"hamburguesas", emoji:"🍔", imagen: "/img/productos/hamburguesas/hamburguesa-tradicional.png", nombre:"Hamburguesa Tradicional", desc:"140gr de carne de res asada al carbón, tocineta y jamón ahumados, queso mozzarella, lechuga, tomate, cebolla, pan brioche, con papa a la francesa y salsas de la casa.", precio:23000 },
+    { id:28, cat:"hamburguesas", emoji:"🍔", imagen: "/img/productos/hamburguesas/hamburguesa-mixta.png", nombre:"Hamburguesa Mixta", desc:"140gr de carne de res asada al carbón, pollo desmechado, tocineta y jamón ahumados, queso mozzarella, lechuga, tomate, cebolla, pan brioche, con papa a la francesa y salsas de la casa.", precio:27000 },
     { id:29, cat:"hamburguesas", emoji:"🍔", imagen:"/img/productos/hamburguesas/hamburgesa-gaucha.jpg", nombre:"Hamburguesa Gaucha", desc:"140gr de carne de res asada al carbón, chorizo, tocineta y jamón ahumados, queso mozzarella, lechuga, tomate, cebolla, pan brioche, con papa a la francesa, salsas de la casa y chimichurri.", precio:27000 },
-    { id:30, cat:"hamburguesas", emoji:"🍔", nombre:"Hamburguesa Doble Carne", desc:"2 carnes de res de 140gr asadas al carbón, doble tocineta y jamón ahumados, doble queso mozzarella, lechuga, tomate, cebolla, pan brioche, con papa a la francesa y salsas de la casa.", precio:29000 },
+    { id:30, cat:"hamburguesas", emoji:"🍔", imagen: "/img/productos/hamburguesas/hamburguesa-doble-carne.png", nombre:"Hamburguesa Doble Carne", desc:"2 carnes de res de 140gr asadas al carbón, doble tocineta y jamón ahumados, doble queso mozzarella, lechuga, tomate, cebolla, pan brioche, con papa a la francesa y salsas de la casa.", precio:29000 },
 
     // ── MAZORCADAS DE LA CASA ────────────────────────────────
-    { id:31, cat:"mazorcadas", emoji:"🌽", nombre:"Mazorcada Tradicional con Pollo", desc:"200gr de maíz, tocineta ahumada, pollo desmechado, queso mozzarella, gratinada en horno a leña y acompañada con salsas de la casa.", precio:26000 },
-     { id:62, cat:"mazorcadas", emoji:"🌽", nombre:"Mazorcada Tradicional con Carne", desc:"200gr de maíz, tocineta ahumada, carne desmechada, queso mozzarella, gratinada en horno a leña y acompañada con salsas de la casa.", precio:26000 },
-    { id:32, cat:"mazorcadas", emoji:"🌽", nombre:"Mazorcada Mixta", desc:"200gr de maíz, tocineta ahumada, pollo y carne bolognesa, queso mozzarella, gratinada en horno a leña y acompañada con salsas de la casa.", precio:26000 },
+    { id:31, cat:"mazorcadas", emoji:"🌽", nombre:"Mazorcada Tradicional con Pollo", imagen: "/img/productos/para-picar/mazorcada-tradicional-pollo.png", desc:"200gr de maíz, tocineta ahumada, pollo desmechado, queso mozzarella, gratinada en horno a leña y acompañada con salsas de la casa.", precio:26000 },
+     { id:62, cat:"mazorcadas", emoji:"🌽", nombre:"Mazorcada Tradicional con Carne", imagen: "/img/productos/para-picar/mazorcada-tradicional-carne.png",desc:"200gr de maíz, tocineta ahumada, carne desmechada, queso mozzarella, gratinada en horno a leña y acompañada con salsas de la casa.", precio:26000 },
+    { id:32, cat:"mazorcadas", emoji:"🌽", nombre:"Mazorcada Mixta", imagen: "/img/productos/para-picar/mazorcada-mixta.png", desc:"200gr de maíz, tocineta ahumada, pollo y carne bolognesa, queso mozzarella, gratinada en horno a leña y acompañada con salsas de la casa.", precio:26000 },
 
     // ── CHORIPAPAS TRADICIONALES ─────────────────────────────
-    { id:33, cat:"choripapas", emoji:"🍟", nombre:"Choripapa Sencilla", desc:"300gr de papa a la francesa, acompañada de chorizo tradicional, queso y salsas de la casa.", precio:18000 },
-    { id:34, cat:"choripapas", emoji:"🍟", nombre:"Choripapa Especial (2 personas)", desc:"300gr de papa a la francesa, acompañada de chorizo tradicional, tocineta, maíz, pollo desmechado, maduro, queso mozzarella y queso costeño, con salsas de la casa.", precio:32000 },
+    { id:33, cat:"choripapas", emoji:"🍟", nombre:"Choripapa Sencilla", imagen: "/img/productos/para-picar/choripapa-sencillo.png", desc:"300gr de papa a la francesa, acompañada de chorizo tradicional, queso y salsas de la casa.", precio:18000 },
+    { id:34, cat:"choripapas", emoji:"🍟", nombre:"Choripapa Especial (2 personas)", imagen: "/img/productos/para-picar/choripapa-especial.png", desc:"300gr de papa a la francesa, acompañada de chorizo tradicional, tocineta, maíz, pollo desmechado, maduro, queso mozzarella y queso costeño, con salsas de la casa.", precio:32000 },
 
     // ── PAPAS A LA FRANCESA ───────────────────────────────────
-    { id:35, cat:"papas", emoji:"🍟", nombre:"Papas Sencillas", desc:"300gr de papa a la francesa, acompañada de queso costeño y salsas de la casa.", precio:12000 },
-    { id:36, cat:"papas", emoji:"🍟", nombre:"Papas Dobles", desc:"600gr de papa a la francesa, acompañada de queso costeño y salsas de la casa.", precio:20000 },
+    { id:35, cat:"papas", emoji:"🍟", nombre:"Papas Sencillas", imagen: "/img/productos/para-picar/papas-sencillas.png", desc:"300gr de papa a la francesa, acompañada de queso costeño y salsas de la casa.", precio:12000 },
+    { id:36, cat:"papas", emoji:"🍟", nombre:"Papas Dobles", imagen: "/img/productos/para-picar/papas-dobles.png", desc:"600gr de papa a la francesa, acompañada de queso costeño y salsas de la casa.", precio:20000 },
 
     // ── JUGOS EN AGUA ─────────────────────────────────────────
-    { id:37, cat:"jugos-agua", emoji:"🫐", nombre:"Jugo de Mora en Agua", desc:"", precio:6500 },
-    { id:38, cat:"jugos-agua", emoji:"🟣", nombre:"Jugo de Maracuyá en Agua", desc:"", precio:6500 },
-    { id:39, cat:"jugos-agua", emoji:"🥭", nombre:"Jugo de Mango en Agua", desc:"", precio:6500 },
+    { id:37, cat:"jugos-agua", emoji:"🫐", nombre:"Jugo de Mora en Agua", imagen: "/img/productos/bebidas/jugo-mora-agua.png", desc:"", precio:6500 },
+    { id:38, cat:"jugos-agua", emoji:"🟣", nombre:"Jugo de Maracuyá en Agua", imagen: "/img/productos/bebidas/jugo-maracuya-agua.png", desc:"", precio:6500 },
+    { id:39, cat:"jugos-agua", emoji:"🥭", nombre:"Jugo de Mango en Agua", imagen: "/img/productos/bebidas/jugo-mango-agua.png", desc:"", precio:6500 },
 
     // ── JUGOS EN LECHE ────────────────────────────────────────
     { id:40, cat:"jugos-leche", emoji:"🫐", nombre:"Jugo de Mora en Leche", desc:"", precio:7500 },
